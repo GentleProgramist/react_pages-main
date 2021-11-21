@@ -12,6 +12,6 @@ const App = () => (
     <NotificationContainer />
     <Routes /> 
   </Provider>
-);
+); 
 
 export default App;
